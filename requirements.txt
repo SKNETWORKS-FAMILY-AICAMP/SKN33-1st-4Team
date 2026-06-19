@@ -1,0 +1,8 @@
+streamlit
+pandas
+requests
+beautifulsoup4
+geopy
+pydeck
+python-dotenv
+mysql-connector-python

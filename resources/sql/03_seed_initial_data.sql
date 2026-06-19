@@ -1,0 +1,8 @@
+USE ev_charger_dashboard;
+
+SOURCE resources/elec_vehicle_tbl_region_cd.sql
+SOURCE resources/elec_vehicle_tbl_region_elec_usage.sql
+SOURCE resources/elec_vehicle_tbl_region_coord.sql
+SOURCE resources/elec_vehicle_tbl_charge_station.sql
+SOURCE resources/elec_vehicle_tbl_charger.sql
+SOURCE resources/elec_vehicle_map_station_region_cd.sql

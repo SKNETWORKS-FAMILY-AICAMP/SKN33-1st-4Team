@@ -1,0 +1,2 @@
+-- Deprecated dump copy.
+-- Use resources/elec_vehicle_tbl_charge_station.sql via resources/sql/03_seed_initial_data.sql.
